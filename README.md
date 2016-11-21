@@ -4,7 +4,11 @@ A basic program used to roughly simulate basketball possessions using basic stat
 Written in Java after my first semester of programming. I used one of my hobbies, basketball analytics, to help study for my programming final.
 Basic functionality was implemented in Nov 2015.
 
+/
+
 Functions:
+
+/
 
 Input basic player data (shooting percentages, tendencies, name, and position)
 
@@ -18,11 +22,11 @@ Simulates a posession until a shot is made or missed
 
 Stores game score
 
-
+/
 
 I plan to come back to this code and implement additional features to make the simulation less rudimentary. 
 
-
+/
 
 Future functions:
 
